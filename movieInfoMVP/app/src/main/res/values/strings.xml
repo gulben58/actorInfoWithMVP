@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">movieInfoMVP</string>
+    <string name="search_error">Enter keyword for searching</string>
+</resources>
